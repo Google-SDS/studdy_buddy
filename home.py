@@ -1,3 +1,5 @@
+#https://blog.streamlit.io/langchain-tutorial-1-build-an-llm-powered-app-in-18-lines-of-code/
+
 import streamlit as st
 from langchain.llms import OpenAI
 
